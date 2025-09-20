@@ -87,4 +87,4 @@ placeholders.txt：占位符说明文件
 
 六、下载运行
 
-下载pentest_report_generator.exe即可运行，目前测试不用python环境也可以运行。
+下载pentest_report_generator.exe即可运行，目前测试不用python环境也可以运行，我也给各位提供了一个报告的模板，里面有占位符，可以直接拿来用。
